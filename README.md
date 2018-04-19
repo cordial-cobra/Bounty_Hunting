@@ -24,7 +24,13 @@ When a player is added to The List, a chat message will be sent to that player s
 ## Support
 If you have any questions, find a bug or exploit or have any issues, please pot the latter two on the GitHub repository. For questions, contact me via IRC (query the name "Mr_Pardison" or "Mr-Pardison" without the quotation marks) or email me at leveragegivestheadvantage@gmail.com
 
+## Notice:
+If you run both this mod and rubenwardy's CTF PvP Engine at the same time, the engine will object ot the registration of the bounty_admin priv in both mods. If you wish to avoid this, don't run both at the same time. I say this in order to prevent the conflict of them and cover the possibility of this happening.
+
 ### Those who helped along the way:
-Thanks to rubenwardy, Ezhh, and tenplus1 for their support and encouragement.
+Thanks to:
+rubenwardy, Ezhh, and tenplus1 for their support and encouragement.
+AlexINF for their help in debugging the code
+
 
 ### Thanks and happy hunting! :D
