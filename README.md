@@ -29,8 +29,9 @@ If you run both this mod and rubenwardy's CTF PvP Engine at the same time, the e
 
 ### Those who helped along the way:
 Thanks to:
-rubenwardy, Ezhh, and tenplus1 for their support and encouragement.
-AlexINF for their help in debugging the code
+[rubenwardy](https://github.com/rubenwardy/), [Ezhh](http://github.com/Ezhh/), and [tenplus1](http://github.com/tenplus1/) for their support and encouragement.
+[AlexINF](https://github.com/alexdevteam/) for their help in debugging the code.
+If I missed anyone, let me know as those who helped along the way deserve to be given credit.
 
 
 ### Thanks and happy hunting! :D
