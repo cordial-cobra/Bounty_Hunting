@@ -4,7 +4,7 @@ Adds in the ability to set a bounty on a player in a MT server. Once you are on 
 ### Author:
 #### cordial-cobra (Mr_Pardison)
 
-###Testers: 
+### Testers: 
 Feel free to test this mod once I have made it into a functioning one where it doesn't crash and have made an official post on the MT forum.
 
 ### License: LGPLv2.1 (https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)
