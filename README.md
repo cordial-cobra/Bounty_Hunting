@@ -21,9 +21,11 @@ There will eventually be the ability to exclude certain players from the blackli
 ### What happens when a player gets Blacklisted:
 When a player is added to The List, a chat message will be sent to that player saying "You have been added to the blacklist by <player>. The reward for killing you is <item_name>, x<quantity>." For the player who added someone to The List, it will tell them "You have successfully added <player_name> to The List at the price of <quantity_of_item> <item>."
 
-### Support If you have any questions, find a bug, exploit or have any issues, please put the latter three on the GitHub repository under the "issues" tab. For questions, you can contact me via IRC by querying Mr_Pardison and if it says no such nick/channel, then query Mr-Pardison to contact me. If I am not online, do /msg memoserv send Mr_Pardison <message>.
+### Support
+If you have any questions, find a bug, exploit or have any issues, please put the latter three on the GitHub repository under the "issues" tab. For questions, you can contact me via IRC by querying Mr_Pardison and if it says no such nick/channel, then query Mr-Pardison to contact me. If I am not online, do /msg memoserv send Mr_Pardison <message>.
 
-### Notice: If you run both this mod and rubenwardy's CTF PvP engine at the same time, the engine will object to the registration of of the bounty_admin priv occuring in both. If you wish to avoid this, don't run both at the same time. I have this notice in order to prevent the conflict of them and cover the possibility of this happening.
+### Notice:
+If you run both this mod and rubenwardy's CTF PvP engine at the same time, the engine will object to the registration of of the bounty_admin priv occuring in both. If you wish to avoid this, don't run both at the same time. I have this notice in order to prevent the conflict of them and cover the possibility of this happening.
 
 ## Those who helped along the way:
 [rubenwardy](https://github.com/rubenwardy/), [Ezhh](https://github.com/Ezhh/), and [tenplus](https://github.com/tenplus1/) for their support and encouragment.
