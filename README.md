@@ -7,7 +7,7 @@ Adds in the ability to set a bounty on a player in a MT server. Once you are on 
 ### Testers:
 feel free to test this once I have made this into a WIP mod and officially made a post on the MT forum.
 
-### License: LGPLv3.0 (https://www.gnu.org/licenses/lgpl-3.0.en.html)
+### License: LGPLv2.1 (https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)
 
 ## Installation:
 Download the .zip file and extract it. Place the extracted folder into your mods directory. To enable it, select the world you want and click "configure". Under the list of available mods, 
