@@ -40,6 +40,7 @@ end, {
 	description ="Add a player to the bounty list for a price",
 })
 --SFINV page (GUI to add a player to The List)
+if minetest.global_exists("sfinv") then
 sfinv.register_page("bounty_hunting:bounty_list", {
     title = "Bounty List",
     get = function(self, player, context)
