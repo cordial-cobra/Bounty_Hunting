@@ -1,0 +1,8 @@
+default
+ChatCmdBuilder
+sfinv
+sauth?
+irc?
+irc_commands?
+unified_inventory?
+inventory_plus
